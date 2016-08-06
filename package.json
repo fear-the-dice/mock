@@ -1,0 +1,23 @@
+{
+  "name": "fear-the-dice",
+  "version": "0.0.1",
+  "description": "A tool for helping manage combat in a turn based environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "drakov": "~0.2.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fear-the-dice.web.git"
+  },
+  "author": "Jeffrey Hann <jeffhann@gmail.com> (http://jeffreyhann.ca)",
+  "contributors": "Shawn Gillam-wright <s.gillamwright@gmail.com> (http://www.gillamwright.com)",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/fear-the-dice/mock/issues"
+  },
+  "homepage": "http://fearthedice.com"
+}
